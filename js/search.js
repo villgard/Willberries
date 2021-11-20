@@ -6,8 +6,7 @@ export default function search() {
         // console.log(e.target.value)
     })
  
-    searchBtn.addEventListener('click', (e) => {
-        e.preventDefault()
+    searchBtn.addEventListener('click', () => {
         let searchResult = searchField.value || 'Чтобы что-нибудь найти - надо что-нибудь ввести)'
         console.log(searchResult)
     })
