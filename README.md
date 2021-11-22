@@ -1,3 +1,3 @@
 # Willberries
-Training project JS
+Training project 
 Intensive course from Glo Academy
